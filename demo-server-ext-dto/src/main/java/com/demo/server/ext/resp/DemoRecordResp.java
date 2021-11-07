@@ -1,4 +1,4 @@
-package com.demo.server.resp;
+package com.demo.server.ext.resp;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import io.swagger.annotations.ApiModel;

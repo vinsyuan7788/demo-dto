@@ -10,6 +10,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>demo-server-dto</module>
+        <module>demo-server-ext-dto</module>
     </modules>
     <name>demo-api</name>
     <description>DTO for Demo Applications</description>
